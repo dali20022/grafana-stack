@@ -16,5 +16,5 @@ Run the following to bring up the environment:
 ```
 docker-compose up -d
 whith agent
-docker compose --profile=agent up -d
+docker-compose --profile=agent up -d
 ```
